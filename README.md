@@ -16,7 +16,7 @@ Useful modules for working with async iterables:
 * [`event-iterator`](https://github.com/rolftimmermans/event-iterator) ⭐ 97 | 🐛 4 | 🌐 TypeScript | 📅 2020-06-12 - Convert event emitter to async iterator
 * [`streaming-iterables`](https://github.com/reconbot/streaming-iterables) ⭐ 87 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-15 - A Swiss army knife for async iterables
 * [`it-pipe`](https://github.com/alanshaw/it-pipe) ⭐ 43 | 🐛 3 | 🌐 TypeScript | 📅 2023-08-17 - Utility to "pipe" async iterables together
-* [`it-to-stream`](https://github.com/alanshaw/it-to-stream) ⭐ 23 | 🐛 14 | 🌐 JavaScript | 📅 2023-08-17 - Convert streaming iterables to Node.js streams
+* [`it-to-stream`](https://github.com/alanshaw/it-to-stream) ⭐ 23 | 🐛 15 | 🌐 JavaScript | 📅 2023-08-17 - Convert streaming iterables to Node.js streams
 * [`stream-to-it`](https://github.com/alanshaw/stream-to-it) ⭐ 19 | 🐛 4 | 🌐 TypeScript | 📅 2024-07-10 - Convert Node.js streams to streaming iterables
 * [`abortable-iterator`](https://github.com/alanshaw/abortable-iterator) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2024-12-06 - Make any iterator or iterable abortable via an AbortSignal
 * [`it-pushable`](https://github.com/alanshaw/it-pushable) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-08 - Pushable iterable
@@ -43,4 +43,4 @@ Useful modules for working with async iterables:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
