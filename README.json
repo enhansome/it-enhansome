@@ -1,7 +1,584 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Collect the contents of an iterable into an array",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Batch up the contents of an iterable into arrays",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "An async iterator that emits buffers containing bytes up to a certain length",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Drains an async iterator without returning anything",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Returns the first item from an async iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Take an iterable of variable length arrays and make them all the same length",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Async iterable filename pattern matcher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Returns the last item from an async iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "HTTP multipart message parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it",
+          "description": "Take an iterable of functions that return promises and run them in parallel in batches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224198391,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T07:54:13Z",
+            "owner": "achingbrain",
+            "repo": "it",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iter-tools",
+          "description": "The iterable toolbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69821712,
+            "language": "JavaScript",
+            "last_commit": "2025-06-02T13:12:47Z",
+            "owner": "iter-tools",
+            "repo": "iter-tools",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "event-iterator",
+          "description": "Convert event emitter to async iterator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104458568,
+            "language": "TypeScript",
+            "last_commit": "2020-06-12T12:25:41Z",
+            "owner": "rolftimmermans",
+            "repo": "event-iterator",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "streaming-iterables",
+          "description": "A Swiss army knife for async iterables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219367092,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:53:11Z",
+            "owner": "reconbot",
+            "repo": "streaming-iterables",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-pipe",
+          "description": "Utility to \"pipe\" async iterables together",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179078621,
+            "language": "TypeScript",
+            "last_commit": "2023-08-17T09:16:19Z",
+            "owner": "alanshaw",
+            "repo": "it-pipe",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-to-stream",
+          "description": "Convert streaming iterables to Node.js streams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199870046,
+            "language": "JavaScript",
+            "last_commit": "2023-08-17T09:16:22Z",
+            "owner": "alanshaw",
+            "repo": "it-to-stream",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stream-to-it",
+          "description": "Convert Node.js streams to streaming iterables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203164438,
+            "language": "TypeScript",
+            "last_commit": "2024-07-10T10:38:47Z",
+            "owner": "alanshaw",
+            "repo": "stream-to-it",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abortable-iterator",
+          "description": "Make any iterator or iterable abortable via an AbortSignal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155538244,
+            "language": "TypeScript",
+            "last_commit": "2024-12-06T10:57:09Z",
+            "owner": "alanshaw",
+            "repo": "abortable-iterator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-pushable",
+          "description": "Pushable iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183108084,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T08:43:17Z",
+            "owner": "alanshaw",
+            "repo": "it-pushable",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-ws",
+          "description": "Simple async iterators for websocket client and server connections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178085144,
+            "language": "TypeScript",
+            "last_commit": "2024-12-06T10:44:46Z",
+            "owner": "alanshaw",
+            "repo": "it-ws",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pull-stream-to-async-iterator",
+          "description": "Convert a pull stream to an async iterator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147847256,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:16:35Z",
+            "owner": "alanshaw",
+            "repo": "pull-stream-to-async-iterator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-handshake",
+          "description": "Create handshakes for binary protocols with duplex async iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211057298,
+            "language": "TypeScript",
+            "last_commit": "2023-08-17T09:17:07Z",
+            "owner": "jacobheun",
+            "repo": "it-handshake",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-iterator-to-pull-stream",
+          "description": "Convert a (async) iterator to a pull stream",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147930929,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:16:47Z",
+            "owner": "alanshaw",
+            "repo": "async-iterator-to-pull-stream",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iterable-ndjson",
+          "description": "NDJSON parsing/encoding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170310003,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T03:06:19Z",
+            "owner": "alanshaw",
+            "repo": "iterable-ndjson",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-pair",
+          "description": "A pair of {source, sink} streams that are internally connected (what goes into the sink comes out the source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184311896,
+            "language": "TypeScript",
+            "last_commit": "2023-08-17T09:16:18Z",
+            "owner": "alanshaw",
+            "repo": "it-pair",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paramap-it",
+          "description": "Parallel mapping for async iterables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173760751,
+            "language": "JavaScript",
+            "last_commit": "2019-03-04T19:35:18Z",
+            "owner": "alanshaw",
+            "repo": "paramap-it",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-length-prefixed",
+          "description": "Streaming length prefixed buffers with async iterables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184765331,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T09:17:17Z",
+            "owner": "alanshaw",
+            "repo": "it-length-prefixed",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-block",
+          "description": "Transform input into equally-sized blocks of output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185467709,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T15:29:46Z",
+            "owner": "alanshaw",
+            "repo": "it-block",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-tar",
+          "description": "Streaming tar parser (and maybe a generator in the future) and nothing else",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221905774,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T08:19:50Z",
+            "owner": "alanshaw",
+            "repo": "it-tar",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emitterator",
+          "description": "Convert async iterator to event emitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143890532,
+            "language": "JavaScript",
+            "last_commit": "2018-08-07T15:38:42Z",
+            "owner": "alanshaw",
+            "repo": "emitterator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get-iterator",
+          "description": "Get the default iterator or async iterator for an Iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155699287,
+            "language": "TypeScript",
+            "last_commit": "2023-08-17T09:16:14Z",
+            "owner": "alanshaw",
+            "repo": "get-iterator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-keepalive",
+          "description": "Keep an async iterable alive by yielding a value if it doesn't yield a value before the timeout",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210450517,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T11:14:46Z",
+            "owner": "alanshaw",
+            "repo": "it-keepalive",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-postmsg",
+          "description": "Streaming iterables over",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242179194,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T07:56:25Z",
+            "owner": "alanshaw",
+            "repo": "it-postmsg",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-reader",
+          "description": "Read an exact number of bytes from a binary (async) iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201063135,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T14:38:36Z",
+            "owner": "alanshaw",
+            "repo": "it-reader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recoverable-iterator",
+          "description": "If an iterator errors, restart and continue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155709803,
+            "language": "JavaScript",
+            "last_commit": "2018-11-01T12:23:03Z",
+            "owner": "alanshaw",
+            "repo": "recoverable-iterator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-concat",
+          "description": "Concat all buffers/strings yielded from an async iterable into a single BufferList/string",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224842370,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T10:44:36Z",
+            "owner": "alanshaw",
+            "repo": "it-concat",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-pb-rpc",
+          "description": "A convenience-wrapper around protocol-buffers and lp-messages functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220264451,
+            "language": "JavaScript",
+            "last_commit": "2022-01-03T14:19:30Z",
+            "owner": "mkg20001",
+            "repo": "it-pb-rpc",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-buffer",
+          "description": "Is it a string? Is it a ? Or just a ? Worry no more with it-buffer! It exposes a transform stream that converts all buffer-like objects into true buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 218280245,
+            "language": "JavaScript",
+            "last_commit": "2021-04-13T17:15:41Z",
+            "owner": "mkg20001",
+            "repo": "it-buffer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "it-goodbye",
+          "description": "Add a goodbye handshake to a duplex async iterable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178241533,
+            "language": "TypeScript",
+            "last_commit": "2024-02-28T10:18:28Z",
+            "owner": "alanshaw",
+            "repo": "it-goodbye",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:20.074Z",
+    "last_updated": "2026-08-24T14:45:56.594Z",
     "original_repository": "alanshaw/it-awesome",
     "original_repository_id": 204688793,
     "original_repository_sha": "5cc16f9818fdf4aeba561db1c5e58994004ace94",
