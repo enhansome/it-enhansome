@@ -192,7 +192,7 @@
             "archived": false,
             "id": 219367092,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:53:11Z",
+            "last_commit": "2026-08-25T15:14:38Z",
             "owner": "reconbot",
             "repo": "streaming-iterables",
             "stars": 87
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:40:37.154Z",
+    "last_updated": "2026-08-26T02:57:03.888Z",
     "original_repository": "alanshaw/it-awesome",
     "original_repository_id": 204688793,
     "original_repository_sha": "5cc16f9818fdf4aeba561db1c5e58994004ace94",
