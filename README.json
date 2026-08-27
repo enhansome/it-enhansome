@@ -15,7 +15,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-15T07:54:13Z",
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -578,9 +578,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:57:03.888Z",
-    "original_repository": "alanshaw/it-awesome",
-    "original_repository_id": 204688793,
+    "last_updated": "2026-08-27T12:12:04.256Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 204688793,
+      "language": null,
+      "last_commit": "2023-04-01T08:45:12Z",
+      "owner": "alanshaw",
+      "repo": "it-awesome",
+      "stars": 75
+    },
     "original_repository_sha": "5cc16f9818fdf4aeba561db1c5e58994004ace94",
     "enhanced_repository": "enhansome/it-enhansome",
     "enhanced_repository_description": null,
