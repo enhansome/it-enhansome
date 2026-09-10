@@ -28,8 +28,8 @@ Useful modules for working with async iterables:
 * [`it-pair`](https://github.com/alanshaw/it-pair) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-17 - A pair of {source, sink} streams that are internally connected (what goes into the sink comes out the source)
 * [`paramap-it`](https://github.com/alanshaw/paramap-it) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2019-03-04 - Parallel mapping for async iterables
 * [`it-length-prefixed`](https://github.com/alanshaw/it-length-prefixed) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08 - Streaming length prefixed buffers with async iterables
+* [`it-tar`](https://github.com/alanshaw/it-tar) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-03 - Streaming tar parser (and maybe a generator in the future) and nothing else
 * [`it-block`](https://github.com/alanshaw/it-block) ⭐ 3 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-07 - Transform input into equally-sized blocks of output
-* [`it-tar`](https://github.com/alanshaw/it-tar) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-03 - Streaming tar parser (and maybe a generator in the future) and nothing else
 * [`emitterator`](https://github.com/alanshaw/emitterator) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-07 - Convert async iterator to event emitter
 * [`get-iterator`](https://github.com/alanshaw/get-iterator) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2023-08-17 - Get the default iterator or async iterator for an Iterable
 * [`it-keepalive`](https://github.com/alanshaw/it-keepalive) ⭐ 2 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-04 - Keep an async iterable alive by yielding a value if it doesn't yield a value before the timeout
@@ -43,4 +43,4 @@ Useful modules for working with async iterables:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

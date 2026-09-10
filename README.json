@@ -565,27 +565,6 @@
         },
         {
           "node_type": "item",
-          "title": "it-block",
-          "description": "Transform input into equally-sized blocks of output",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Transform input into equally-sized blocks of output using async iterators",
-            "homepage": null,
-            "id": 185467709,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-05-07T15:29:46Z",
-            "open_issues": 5,
-            "owner": "alanshaw",
-            "repo": "it-block",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:33:01.182Z"
-        },
-        {
-          "node_type": "item",
           "title": "it-tar",
           "description": "Streaming tar parser (and maybe a generator in the future) and nothing else",
           "children": [],
@@ -600,6 +579,27 @@
             "open_issues": 2,
             "owner": "alanshaw",
             "repo": "it-tar",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:33:01.182Z"
+        },
+        {
+          "node_type": "item",
+          "title": "it-block",
+          "description": "Transform input into equally-sized blocks of output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Transform input into equally-sized blocks of output using async iterators",
+            "homepage": null,
+            "id": 185467709,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-07T15:29:46Z",
+            "open_issues": 5,
+            "owner": "alanshaw",
+            "repo": "it-block",
             "stars": 3,
             "topics": []
           },
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:53:13.648Z",
+    "last_updated": "2026-09-10T06:49:43.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦄 List of useful modules for working with async iterables",
