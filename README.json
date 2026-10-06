@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -40,7 +40,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -61,7 +61,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -82,7 +82,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -103,7 +103,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -124,7 +124,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -145,7 +145,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -187,7 +187,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -208,7 +208,7 @@
             "open_issues": 8,
             "owner": "achingbrain",
             "repo": "it",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -267,7 +267,7 @@
             "id": 219367092,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T01:40:34Z",
+            "last_commit": "2026-10-06T01:36:41Z",
             "open_issues": 13,
             "owner": "reconbot",
             "repo": "streaming-iterables",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:55:55.663Z",
+    "last_updated": "2026-10-06T08:18:40.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦄 List of useful modules for working with async iterables",

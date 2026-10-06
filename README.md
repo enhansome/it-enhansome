@@ -2,19 +2,19 @@
 
 Useful modules for working with async iterables:
 
-* [`it-all`](https://github.com/achingbrain/it/blob/master/packages/it-all) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Collect the contents of an iterable into an array
-* [`it-batch`](https://github.com/achingbrain/it/blob/master/packages/it-batch) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Batch up the contents of an iterable into arrays
-* [`it-buffer-stream`](https://github.com/achingbrain/it/blob/master/packages/it-buffer-stream) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - An async iterator that emits buffers containing bytes up to a certain length
-* [`it-drain`](https://github.com/achingbrain/it/tree/master/packages/it-drain) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Drains an async iterator without returning anything
-* [`it-first`](https://github.com/achingbrain/it/blob/master/packages/it-first) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Returns the first item from an async iterable
-* [`it-flat-batch`](https://github.com/achingbrain/it/blob/master/packages/it-flat-batch) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 Take an iterable of variable length arrays and make them all the same length
-* [`it-glob`](https://github.com/achingbrain/it/blob/master/packages/it-glob) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Async iterable filename pattern matcher
-* [`it-last`](https://github.com/achingbrain/it/blob/master/packages/it-last) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Returns the last item from an async iterable
-* [`it-multipart`](https://github.com/achingbrain/it/blob/master/packages/it-multipart) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - HTTP multipart message parser
-* [`it-parallel-batch`](https://github.com/achingbrain/it/blob/master/packages/it-parallel-batch) ⭐ 283 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 Take an iterable of functions that return promises and run them in parallel in batches
+* [`it-all`](https://github.com/achingbrain/it/blob/master/packages/it-all) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Collect the contents of an iterable into an array
+* [`it-batch`](https://github.com/achingbrain/it/blob/master/packages/it-batch) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Batch up the contents of an iterable into arrays
+* [`it-buffer-stream`](https://github.com/achingbrain/it/blob/master/packages/it-buffer-stream) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - An async iterator that emits buffers containing bytes up to a certain length
+* [`it-drain`](https://github.com/achingbrain/it/tree/master/packages/it-drain) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Drains an async iterator without returning anything
+* [`it-first`](https://github.com/achingbrain/it/blob/master/packages/it-first) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Returns the first item from an async iterable
+* [`it-flat-batch`](https://github.com/achingbrain/it/blob/master/packages/it-flat-batch) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 Take an iterable of variable length arrays and make them all the same length
+* [`it-glob`](https://github.com/achingbrain/it/blob/master/packages/it-glob) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Async iterable filename pattern matcher
+* [`it-last`](https://github.com/achingbrain/it/blob/master/packages/it-last) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - Returns the last item from an async iterable
+* [`it-multipart`](https://github.com/achingbrain/it/blob/master/packages/it-multipart) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 - HTTP multipart message parser
+* [`it-parallel-batch`](https://github.com/achingbrain/it/blob/master/packages/it-parallel-batch) ⭐ 282 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-22 Take an iterable of functions that return promises and run them in parallel in batches
 * [`iter-tools`](https://github.com/iter-tools/iter-tools) ⭐ 189 | 🐛 16 | 🌐 JavaScript | 📅 2025-06-02 - The iterable toolbox
 * [`event-iterator`](https://github.com/rolftimmermans/event-iterator) ⭐ 97 | 🐛 4 | 🌐 TypeScript | 📅 2020-06-12 - Convert event emitter to async iterator
-* [`streaming-iterables`](https://github.com/reconbot/streaming-iterables) ⭐ 87 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-04 - A Swiss army knife for async iterables
+* [`streaming-iterables`](https://github.com/reconbot/streaming-iterables) ⭐ 87 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-06 - A Swiss army knife for async iterables
 * [`it-pipe`](https://github.com/alanshaw/it-pipe) ⭐ 43 | 🐛 3 | 🌐 TypeScript | 📅 2023-08-17 - Utility to "pipe" async iterables together
 * [`it-to-stream`](https://github.com/alanshaw/it-to-stream) ⭐ 23 | 🐛 15 | 🌐 JavaScript | 📅 2023-08-17 - Convert streaming iterables to Node.js streams
 * [`stream-to-it`](https://github.com/alanshaw/stream-to-it) ⭐ 19 | 🐛 4 | 🌐 TypeScript | 📅 2024-07-10 - Convert Node.js streams to streaming iterables
@@ -43,4 +43,4 @@ Useful modules for working with async iterables:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
