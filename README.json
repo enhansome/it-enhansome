@@ -250,7 +250,7 @@
             "open_issues": 4,
             "owner": "rolftimmermans",
             "repo": "event-iterator",
-            "stars": 97,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:01.182Z"
@@ -267,7 +267,7 @@
             "id": 219367092,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:49:29Z",
+            "last_commit": "2026-10-25T05:48:18Z",
             "open_issues": 13,
             "owner": "reconbot",
             "repo": "streaming-iterables",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:40:28.314Z",
+    "last_updated": "2026-10-25T07:06:17.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦄 List of useful modules for working with async iterables",
