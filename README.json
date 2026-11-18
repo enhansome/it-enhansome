@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:53:49.597Z",
+    "last_updated": "2026-11-18T09:28:37.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦄 List of useful modules for working with async iterables",
@@ -832,7 +832,7 @@
       "open_issues": 0,
       "owner": "alanshaw",
       "repo": "it-awesome",
-      "stars": 75,
+      "stars": 74,
       "topics": [
         "awesome",
         "awesome-list",
