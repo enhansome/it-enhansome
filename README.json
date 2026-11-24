@@ -267,7 +267,7 @@
             "id": 219367092,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:08:49Z",
+            "last_commit": "2026-11-23T20:01:37Z",
             "open_issues": 13,
             "owner": "reconbot",
             "repo": "streaming-iterables",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:59:11.368Z",
+    "last_updated": "2026-11-24T11:48:45.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "🦄 List of useful modules for working with async iterables",
